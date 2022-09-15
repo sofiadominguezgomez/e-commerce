@@ -1,0 +1,44 @@
+.navContainer {
+    background-color: #fb8b24;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+    flex: 1;
+    color: #291720;
+    font-size: 1rem;
+}
+
+.navContainer a {
+    color: #291720;
+    text-decoration: none;
+}
+
+.navContainer a:hover {
+    color: #d90368;
+}
+
+.logoContainer{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1rem;
+}
+
+.logoContainer img {
+    width: 2rem;
+    
+}
+
+.navList {
+    list-style-type: none;
+    
+}
+
+.listItem {
+    display: inline-block;
+    padding: 1rem;
+    margin: 1rem;
+    
+}

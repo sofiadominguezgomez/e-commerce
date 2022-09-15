@@ -1,0 +1,16 @@
+.loading {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(204, 204, 204, 0.61);
+}
+
+.spinner {
+    width: 50rem;
+    height: 50rem;
+    border: 1vh solid currentColor;
+    border-right-color: transparent;
+}

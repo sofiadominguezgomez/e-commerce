@@ -1,0 +1,8 @@
+.products{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: space-around;
+    background-color: rgba(204, 204, 204, 0.61);
+}
