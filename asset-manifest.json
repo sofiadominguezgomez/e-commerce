@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.5f6858ee.css",
+    "main.js": "/e-commerce/static/js/main.a968ce70.js",
+    "static/js/787.246b754b.chunk.js": "/e-commerce/static/js/787.246b754b.chunk.js",
+    "static/media/oreo-biscuit-svgrepo-com.svg": "/e-commerce/static/media/oreo-biscuit-svgrepo-com.5781bdccb14cd40482ad4f535c42ae8e.svg",
+    "index.html": "/e-commerce/index.html",
+    "main.5f6858ee.css.map": "/e-commerce/static/css/main.5f6858ee.css.map",
+    "main.a968ce70.js.map": "/e-commerce/static/js/main.a968ce70.js.map",
+    "787.246b754b.chunk.js.map": "/e-commerce/static/js/787.246b754b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6858ee.css",
+    "static/js/main.a968ce70.js"
+  ]
+}
